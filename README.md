@@ -1,6 +1,12 @@
 # Datos sobre feminicidios en Latinoamerica
 
-Repositorio para creación de estandar sobre datos de femicidios en Latinoamerica.
+Este repositorio forma parte del proyecto que ILDA (www.idatosabiertos.org) lleva adelante para creación de estandar sobre datos de femicidios en Latinoamerica. En este repositorio es posible encontrar el esquema conceptual de los datos, el esquema de publicación de los datos en JSON, y los datos de los distintos países donde el estándard podría ser aplicado. Para contribuir a nivel conceptual considere usar la lista de discuss
+
+(ver lista)
+
+Para contribuir a nivel técnico considere crear un issue o un pull request
+
+
 
 # Esquema de Datos
 
